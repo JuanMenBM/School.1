@@ -1,0 +1,63 @@
+.img :hover {
+    width: 500px;
+    height: 300px;
+    float: right;
+    display: block;
+    position: relative;
+    margin: 0;
+    box-shadow: 5px 5px 30px;
+    -webkit-transition: all 1s ease;
+    -moz-transition: all 1s ease;
+    transition: all 1s ease;
+}
+
+.cul {
+    text-align: left;
+}
+
+.vr:hover {
+    width: 500px;
+    height: 300px;
+    float: left;
+    box-shadow: 5px 5px 30px;
+    transition: 1s;
+    transform: scale(.9);
+}
+
+.mus {
+    text-align: center;
+}
+
+.mun {
+    text-align: left;
+}
+
+.vt {
+    width: 500px;
+    height: 300px;
+    float: right;
+    box-shadow: 5px 5px 30px;
+    transition: 1s;
+    transform: scale(.9);
+}
+
+.ant {
+    text-align: right;
+}
+
+.bn {
+    width: 500px;
+    height: 300px;
+    float: left;
+    box-shadow: 5px 5px 30px;
+    transition: 1s;
+    transform: scale(.9);
+}
+
+.jd {
+    text-align: left;
+}
+
+.f {
+    text-align: right;
+}
